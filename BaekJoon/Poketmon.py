@@ -11,7 +11,7 @@ for val in question:
 	try:
 		poketmon_num = int(val)
 	except ValueError:
-		print(poketmon[val])  # 포켓몬 이름을 통해 숫자 출력
+		print(poketmon[val])
 		continue
 
 	print(poketmon_reverse[poketmon_num])
