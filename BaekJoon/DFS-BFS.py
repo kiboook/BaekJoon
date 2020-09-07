@@ -44,6 +44,13 @@ for _ in range(M):
 for i in range(1, N + 1):  # 정점 번호가 작은 순으로 방문해야하기 때문에 정렬한다
 	graph[i].sort()
 
-DFS(graph, V)
+# DFS(graph, V)
 print()
 BFS(graph, V)
+
+# 5 5
+# 1 3
+# 1 4
+# 4 5
+# 4 3
+# 3 2
