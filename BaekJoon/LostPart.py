@@ -23,4 +23,5 @@ while idx < len(fomula):
 		idx += 1
 
 print(eval(''.join(cal)))
+# 데헷
 
