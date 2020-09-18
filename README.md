@@ -52,6 +52,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Stairs/" style="color:#0FA678">[BaekJoon] 백준 2579번 : 계단 오르기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Fashion/" style="color:#0FA678">[BaekJoon] 백준 9375번 : 패션왕 신해빈</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
@@ -77,3 +79,5 @@
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_HideAndSeek/" style="color:#0FA678">[BaekJoon] 백준 1697번 : 숨바꼭질</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Hometown/" style="color:#0FA678">[BaekJoon] 백준 2667번 : 단지번호붙이기</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Z/" style="color:#0FA678">[BaekJoon] 백준 1074번 : Z</a>
