@@ -56,6 +56,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ColorPaper/" style="color:#0FA678">[BaekJoon] 백준 2630번 : 색종이 만들기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_123/" style="color:#0FA678">[BaekJoon] 백준 9095번 : 1,2,3 더하기</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
