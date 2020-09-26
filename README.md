@@ -58,6 +58,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_123/" style="color:#0FA678">[BaekJoon] 백준 9095번 : 1,2,3 더하기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Wave/" style="color:#0FA678">[BaekJoon] 백준 9461번 : 파도반 수열</a>
+
 ### Silver 2
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_DFSBFS/" style="color:#0FA678">[BaekJoon] 백준 1260번 : DFS와 BFS</a>
