@@ -10,7 +10,9 @@
 
 **CLASS** 를 올리기 위해 필요한 필수 문제들이 있는데 그 문제들을 풀어서 **CLASS** 를 올리는 것을 목표로 해야겠다.
 
-[2020.09.14] **Silver 2** 달성! **CLASS 3** 문제 푸는중.. 
+[2020.09.14] **Silver 2** 달성! **CLASS 3** 문제 푸는중..
+
+[2020.09.28] **Silver 1** 달성! **CLASS 3** 문제 푸는중..
 
 ---
 
@@ -101,6 +103,8 @@
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Tomato2/" style="color:#0FA678">[BaekJoon] 백준 7576번 : 토마토</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Beer/" style="color:#0FA678">[BaekJoon] 백준 9205번 : 맥주 마시면서 걸어가기</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Coin0/" style="color:#0FA678">[BaekJoon] 백준 11047번 : 동전 0</a>
 
 ### Gold 5
 
