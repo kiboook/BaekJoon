@@ -114,6 +114,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_AbsHeap/" style="color:#0FA678">[BaekJoon] 백준 11286번 : 절댓값 힙</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindRoute/" style="color:#0FA678">[BaekJoon] 백준 11430번 : 경로 찾기</a>
+
 ### Gold 5
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_PriorityQueue/" style="color:#0FA678">[BaekJoon] 백준 7662번 : 이중 우선순위 큐</a>
