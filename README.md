@@ -218,6 +218,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Cheese/" style="color:#0FA678">[BaekJoon] 백준 2638번 : 치즈</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Bomb/" style="color:#0FA678">[BaekJoon] 백준 9935번 : 문자열 폭발</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
