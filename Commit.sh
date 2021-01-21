@@ -17,5 +17,3 @@ sleep 1
 echo "\n> Git Push ...\n"
 
 git push -u origin master
-
-echo "\n> SUCCESS PUSH [$YEAR.$MONTH.$DAY]"
