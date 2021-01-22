@@ -18,7 +18,7 @@
 
 [2020.09.28] **Silver 1** 달성! **CLASS 3** 문제 푸는 중..
 
-[2020.10.09] **CLASS 3** 금장 취득..
+[2020.10.09] **CLASS 3** 금장 취득
 
 [2020.10.26] **Gold 5** 달성! **CLASS 4** 문제 푸는 중..
 
@@ -42,7 +42,7 @@
 
 ### Silver 5
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Chess/" style="color:#0FA678">[BaekJoon] 백준 1018번 : 체스판 다시 칠하기</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Chess/" style="color:#0FA678">[BaekJoon] 백준 1018번 : 체스판 다시 칠하기</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Set/" style="color:#0FA678">[BaekJoon] 백준 11723번 : 집합</a>
 
@@ -54,7 +54,7 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_FindNum/" style="color:#0FA678">[BaekJoon] 백준 1920번 : 수 찾기</a>
 
-<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Balance/" style="color:#0FA678">[BaekJoon] 백준 4949번 : 균형잡힌 세상</a>
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Balance/" style="color:#0FA678">[BaekJoon] 백준 4949번 : 균형잡힌 세상</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Parenthesis/" style="color:#0FA678">[BaekJoon] 백준 9012번 : 괄호</a>
 
