@@ -1,4 +1,7 @@
-### 매일 <a href="https://www.acmicpc.net/" style="color:#0FA678" target="_blank">백준</a> 에 있는 문제 풀기
+<a href="https://solved.ac/nkb7714">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=nkb7714">
+
+### 매일 <a href="https://www.acmicpc.net/" style="color:#0FA678" target="_blank">백준</a> 에 있는 문제 풀기 
 
 [2020.08.24] 시작!
 
