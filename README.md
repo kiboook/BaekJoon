@@ -230,6 +230,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_MakePassword/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1759번 : 암호 만들기</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_Snake/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 3190번 : 뱀</a>
+
 ### Gold 4
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_Floyd/" style="color:#0FA678">[BaekJoon] 백준 11404번 : 플로이드</a>
