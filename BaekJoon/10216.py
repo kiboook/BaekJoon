@@ -1,43 +1,51 @@
 import sys
-from collections import deque
 
 
-def BFS(visit, start):
-	queue = deque([nodes[start]])
-	visit[start] = True
+def find_parent(parent, node):
+    if parent[node] != node:
+        parent[node] = find_parent(parent, parent[node])
 
-	while queue:
-		x1, y1, r1 = queue.popleft()
+    return parent[node]
 
-		for idx, node in enumerate(nodes):
-			if not visit[idx]:
-				x2, y2, r2 = node
-				dist = (x1 - x2) ** 2 + (y1 - y2) ** 2
-				if dist <= (r1 + r2) ** 2:
-					visit[idx] = True
-					queue.append(node)
+
+def union_parent(parent, a, b):
+    a = find_parent(parent, a)
+    b = find_parent(parent, b)
+
+    if a < b:
+        parent[b] = a
+    else:
+        parent[a] = b
 
 
 def solution():
-	visit = [False] * node_cnt
-	BFS_cnt = 0
+    answer = node_cnt
+    parent = [i for i in range(node_cnt)]
 
-	for idx, node in enumerate(nodes):
-		if not visit[idx]:
-			BFS(visit, idx)
-			BFS_cnt += 1
+    for i in range(node_cnt):
+        for j in range(i + 1, node_cnt):
+            x_dif = x_pos[i] - x_pos[j]
+            y_dif = y_pos[i] - y_pos[j]
+            dist = radius[i] + radius[j]
 
-	return BFS_cnt
+            if (x_dif ** 2) + (y_dif ** 2) <= dist ** 2:
+                if find_parent(parent, i) != find_parent(parent, j):
+                    union_parent(parent, i, j)
+                    answer -= 1
+
+    return answer
 
 
 if __name__ == "__main__":
-	testcase = int(input())
+    testcase = int(input())
 
-	for _ in range(testcase):
-		node_cnt = int(input())
-		nodes = []
-		for _ in range(node_cnt):
-			x, y, r = map(int, sys.stdin.readline().rsplit())
-			nodes.append([x, y, r])
+    for _ in range(testcase):
+        node_cnt = int(input())
+        x_pos, y_pos, radius = [], [], []
+        for _ in range(node_cnt):
+            x, y, r = map(int, sys.stdin.readline().rsplit())
+            x_pos.append(x)
+            y_pos.append(y)
+            radius.append(r)
 
-		print(solution())
+        print(solution())
