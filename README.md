@@ -68,6 +68,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ClockNum/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2659번 십자카드 문제</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_14501/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 14501번 : 퇴사</a>
+
 ### Silver 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_ArrStack/" style="color:#0FA678">[BaekJoon] 백준 1874번 : 스택 수열</a>
@@ -205,6 +207,8 @@
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_14888/" style="color:#0FA678" target="_blank">[BaekJoon] 14888번 : 연산자 끼워넣기</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_2110/" style="color:#0FA678" target="_blank">[BaekJoon] 2110번 : 공유기 설치</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_15486/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 15486번 : 퇴사2</a>
 
 ### Gold 5
 
