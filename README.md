@@ -310,6 +310,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NGE/" style="color:#0FA678" target="_blank">[BaekJoon] 17298번 : 오큰수</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_4485/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 4485번 : 녹색 옷 입은 애가 젤다지?</a>
+
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
