@@ -22,10 +22,13 @@ def BFS(visit, start):
 
 
 def solution(arr):
+
+    # 1. 주어진 사각형 그리기
     for square in squares:
         weight = square[2] - square[0]
         height = square[3] - square[1]
 
+        # 2. 가로, 세로 길이를 구해 사각형 그리기
         for i in range(square[1], square[1] + height):
             for j in range(square[0], square[0] + weight):
                 arr[i][j] = 1
@@ -35,6 +38,7 @@ def solution(arr):
     visit = [[False for _ in range(M)] for _ in range(N)]
     for i in range(N):
         for j in range(M):
+            # 3. 빈 공간 발견 시 탐색 시작
             if arr[i][j] == 0 and not visit[i][j]:
                 empty_size.append(BFS(visit, [i, j]))
                 empty_cnt += 1
@@ -49,8 +53,3 @@ if __name__ == "__main__":
     arr = [[0 for _ in range(M)] for _ in range(N)]
 
     solution(arr)
-
-# 5 7 3
-# 0 2 4 4
-# 1 1 2 5
-# 4 0 6 2
