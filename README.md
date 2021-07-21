@@ -374,7 +374,6 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_6497/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 6497번 : 전력난</a>
 
-
 ### Gold 3
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_TreeDiameter/" style="color:#0FA678">[BaekJoon] 백준 1167번 : 트리의 지름</a>
@@ -390,6 +389,8 @@
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_11779/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 11779번 : 최소비용 구하기 2</a>
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_1005/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1005번 : ACM Craft</a>
+
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_1941/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1941번 : 소문난 칠공주</a>
 
 ### Gold 1
 
