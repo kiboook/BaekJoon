@@ -398,6 +398,8 @@
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_1644/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 1644번 : 소수의 연속합</a>
 
+<a href="https://nam-ki-bok.github.io/baekjoon/Baek_2143/" style="color:#0FA678" target="_blank">[BaekJoon] 백준 2143번 : 두 배열의 합</a>
+
 ### Gold 1
 
 <a href="https://nam-ki-bok.github.io/baekjoon/Baek_NoSquare/" style="color:#0FA678">[BaekJoon] 백준 1016번 : 제곱 ㄴㄴ수</a>
