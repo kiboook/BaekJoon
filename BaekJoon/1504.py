@@ -30,16 +30,10 @@ def solution(N, E):
 		graph[end].append((start, dist))
 
 	v1, v2 = map(int, input().split())
-	if v1 == 1:
-		answer = dijkstra(graph, v1, v2) + dijkstra(graph, v2, N)
-		return -1 if answer == float('inf') else answer
-	if v2 == N:
-		answer = dijkstra(graph, 1, v1) + dijkstra(graph, v1, N)
-		return -1 if answer == float('inf') else answer
-
 	first_v1 = dijkstra(graph, 1, v1) + dijkstra(graph, v1, v2) + dijkstra(graph, v2, N)
 	first_v2 = dijkstra(graph, 1, v2) + dijkstra(graph, v2, v1) + dijkstra(graph, v1, N)
-	answer = min (first_v1, first_v2)
+
+	answer = min(first_v1, first_v2)
 	return -1 if answer == float('inf') else answer
 
 
